@@ -17,11 +17,13 @@ Step 5: Build Docker Image
 <img width="1238" height="531" alt="image" src="https://github.com/user-attachments/assets/831d3eb4-c1c9-4960-a3ec-6d5fd8ef4b4b" />
 
 Step 6: Verify Docker Image 
-<img width="1907" height="142" alt="image" src="https://github.com/user-attachments/assets/6bdb320d-4dc8-4177-896d-2649efeef140" />
+<img width="1890" height="145" alt="image" src="https://github.com/user-attachments/assets/769df12c-a11b-45b3-887a-fb81cbe437b4" />
+
 
 Step 7: Run Docker Container 
-<img width="1902" height="87" alt="image" src="https://github.com/user-attachments/assets/cc1e27a1-f51d-4ec8-b6d0-8a1d5d7c5e51" />
-<img width="1912" height="558" alt="image" src="https://github.com/user-attachments/assets/652d4d0f-1476-4b3f-9aad-467e73b6c286" />
+<img width="1892" height="77" alt="image" src="https://github.com/user-attachments/assets/08ee0d63-3454-4f67-9598-857f406e1543" />
+<img width="1878" height="872" alt="image" src="https://github.com/user-attachments/assets/600035e2-8a21-4a7e-b383-5a6e99702a13" />
+
 
 
 
